@@ -4,7 +4,7 @@
 
 ### ¿Qué es la seguridad informática?
 
-> Todo lo que implica proteger acceso o uso no autorizado de datos (electróincos o digitales)
+> Todo lo que implica proteger acceso o uso no autorizado de datos (electrónicos o digitales)
 
 Prerequisitos:
 
